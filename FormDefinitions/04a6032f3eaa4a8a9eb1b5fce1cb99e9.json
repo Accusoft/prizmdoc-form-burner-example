@@ -1,0 +1,1511 @@
+{
+    "templateDocumentId": "I-9 Form.pdf",
+    "globalSettings": {
+        "signatureDateFormat": "MM/DD/YYYY"
+    },
+    "formDefinitionId": "04a6032f3eaa4a8a9eb1b5fce1cb99e9",
+    "formName": "Form I-9",
+    "formData": [{
+        "fieldId": "Text1",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 162.21070234113716,
+            "height": 14.839464882943162,
+            "x": 39.91304347826082,
+            "y": 179.0969899665552
+        },
+        "pageNumber": 1,
+        "sortIndex": 1,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Last Name",
+        "required": true,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 138.1605351170569,
+            "height": 14.839464882943162,
+            "x": 212.91304347826082,
+            "y": 179.0969899665552
+        },
+        "pageNumber": 1,
+        "sortIndex": 2,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "First Name",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text2",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 44.006688963210706,
+            "height": 14.839464882943162,
+            "x": 359.30434782608694,
+            "y": 179.0969899665552
+        },
+        "pageNumber": 1,
+        "sortIndex": 3,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Middle Initial",
+        "required": false,
+        "characterLimit": 1,
+        "fieldId": "Text3",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 161.69899665551833,
+            "height": 14.839464882943162,
+            "x": 410.0066889632107,
+            "y": 179.0969899665552
+        },
+        "pageNumber": 1,
+        "sortIndex": 4,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Other Names Used",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text4",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 199.05351170568565,
+            "height": 14.839464882943162,
+            "x": 40.4682274247491,
+            "y": 210.35451505016724
+        },
+        "pageNumber": 1,
+        "sortIndex": 5,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Address",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text5",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 56.799331103678924,
+            "height": 14.839464882943162,
+            "x": 245.70568561872904,
+            "y": 210.35451505016724
+        },
+        "pageNumber": 1,
+        "sortIndex": 6,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Apt. Number",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text6",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 135.60200668896323,
+            "height": 14.839464882943162,
+            "x": 308.1772575250835,
+            "y": 210.35451505016724
+        },
+        "pageNumber": 1,
+        "sortIndex": 7,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "City or Town",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text7",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 42.47157190635454,
+            "height": 14.83946488294319,
+            "x": 448.42809364548486,
+            "y": 210.35451505016724
+        },
+        "pageNumber": 1,
+        "sortIndex": 8,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "State",
+        "required": true,
+        "characterLimit": 2,
+        "fieldId": "Text8",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 76.24414715719064,
+            "height": 14.327759197324468,
+            "x": 496.06020066889613,
+            "y": 210.35451505016724
+        },
+        "pageNumber": 1,
+        "sortIndex": 9,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Zip Code",
+        "required": true,
+        "characterLimit": 5,
+        "fieldId": "Text9",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date1",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 92.61872909699,
+            "height": 15.351170568561855,
+            "x": 41.95986622073574,
+            "y": 240.50167224080272
+        },
+        "pageNumber": 1,
+        "sortIndex": 10,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Date of Birth",
+        "required": true,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text10",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 29.678929765886295,
+            "height": 14.839464882943162,
+            "x": 143.2775919732441,
+            "y": 240.50167224080272
+        },
+        "pageNumber": 1,
+        "sortIndex": 11,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "SSN - Part 1",
+        "required": true,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text11",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 19.444816053511715,
+            "height": 15.351170568561884,
+            "x": 178.58528428093643,
+            "y": 240.50167224080272
+        },
+        "pageNumber": 1,
+        "sortIndex": 12,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "SSN - Part 2",
+        "required": true,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text12",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 41.44816053511707,
+            "height": 15.351170568561912,
+            "x": 204.1705685618729,
+            "y": 241.01337792642144
+        },
+        "pageNumber": 1,
+        "sortIndex": 13,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "SSN - Part 3",
+        "required": true,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text13",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 207.95719063545147,
+            "height": 15.146488294314395,
+            "x": 252.16856187290966,
+            "y": 240.70635451505012
+        },
+        "pageNumber": 1,
+        "sortIndex": 14,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Email Address",
+        "required": false,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 107.25351170568558,
+            "height": 14.737123745819389,
+            "x": 465.0508361204012,
+            "y": 240.64749163879594
+        },
+        "pageNumber": 1,
+        "sortIndex": 15,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Phone Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text14",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Checkbox1",
+        "template": "CheckboxTemplate",
+        "rectangle": {
+            "width": 10.234113712374587,
+            "height": 10.234113712374551,
+            "x": 36.842809364548486,
+            "y": 307.8421404682274
+        },
+        "pageNumber": 1,
+        "sortIndex": 16,
+        "displayName": "US Citizen",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Checkbox2",
+        "template": "CheckboxTemplate",
+        "rectangle": {
+            "width": 11.052842809364542,
+            "height": 10.234113712374551,
+            "x": 36.43344481605351,
+            "y": 324.6260869565217
+        },
+        "pageNumber": 1,
+        "sortIndex": 17,
+        "displayName": "Noncitizen National",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Checkbox3",
+        "template": "CheckboxTemplate",
+        "rectangle": {
+            "width": 10.643478260869564,
+            "height": 10.234113712374608,
+            "x": 36.842809364548486,
+            "y": 342.22876254180596
+        },
+        "pageNumber": 1,
+        "sortIndex": 18,
+        "displayName": "Lawful Resident",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Checkbox4",
+        "template": "CheckboxTemplate",
+        "rectangle": {
+            "width": 10.234113712374587,
+            "height": 10.643478260869529,
+            "x": 36.842809364548486,
+            "y": 361.4688963210702
+        },
+        "pageNumber": 1,
+        "sortIndex": 19,
+        "displayName": "Authorized Alien",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text15",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 128.94983277591973,
+            "height": 11.46220735785954,
+            "x": 347.14113712374575,
+            "y": 337.72575250836115
+        },
+        "pageNumber": 1,
+        "sortIndex": 18.5,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Lawful Resident - USCIS Number",
+        "required": false,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date2",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 78.59799331103676,
+            "height": 12.690301003344473,
+            "x": 325.85418060200664,
+            "y": 357.37525083612036
+        },
+        "pageNumber": 1,
+        "sortIndex": 21,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Authorized Alien - Expiration Date",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 128.94983277591973,
+            "height": 11.46220735785954,
+            "x": 235.32575250836112,
+            "y": 403.57458193979926
+        },
+        "pageNumber": 1,
+        "sortIndex": 22,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Authorized Alien - USCIS Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text16",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 180.1204013377926,
+            "height": 12.280936454849495,
+            "x": 184.15518394648825,
+            "y": 432.1712374581939
+        },
+        "pageNumber": 1,
+        "sortIndex": 23,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Authorized Alien - I-94 Admission Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text17",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 256.36454849498324,
+            "height": 12.280936454849495,
+            "x": 180.10501672240798,
+            "y": 483.3852842809364
+        },
+        "pageNumber": 1,
+        "sortIndex": 24,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Foreign Passport Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text18",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 275.2976588628762,
+            "height": 12.280936454849495,
+            "x": 161.17190635451504,
+            "y": 503.38528428093633
+        },
+        "pageNumber": 1,
+        "sortIndex": 25,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Country of Issuance",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text19",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Signature1",
+        "template": "SignatureTemplate",
+        "rectangle": {
+            "width": 284.5083612040134,
+            "height": 18.933110367892937,
+            "x": 125.36789297658862,
+            "y": 547.5250836120401
+        },
+        "pageNumber": 1,
+        "sortIndex": 26,
+        "displayName": "Employee Signature",
+        "required": true,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date3",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 86.47826086956519,
+            "height": 18.421404682274215,
+            "x": 487.6555183946488,
+            "y": 547.7809364548494
+        },
+        "pageNumber": 1,
+        "sortIndex": 27,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Date Signed by Employee",
+        "required": true,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Signature2",
+        "template": "SignatureTemplate",
+        "rectangle": {
+            "width": 418.0635451505016,
+            "height": 15.351170568561884,
+            "x": 38.88963210702341,
+            "y": 650.8896321070234
+        },
+        "pageNumber": 1,
+        "sortIndex": 28,
+        "displayName": "Signature of Preparer",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date4",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 108.9933110367893,
+            "height": 14.32775919732444,
+            "x": 464.1170568561873,
+            "y": 651.4013377926422
+        },
+        "pageNumber": 1,
+        "sortIndex": 29,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Date Signed by Preparer",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 298.8361204013377,
+            "height": 14.839464882943162,
+            "x": 38.88963210702341,
+            "y": 680.478929765886
+        },
+        "pageNumber": 1,
+        "sortIndex": 30,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Preparer's Last Name",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text20",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 223.1036789297658,
+            "height": 14.839464882943162,
+            "x": 350.00668896321076,
+            "y": 680.478929765886
+        },
+        "pageNumber": 1,
+        "sortIndex": 31,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Preparer's First Name",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text21",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 266.08695652173907,
+            "height": 14.839464882943162,
+            "x": 38.88963210702341,
+            "y": 710.2013377926419
+        },
+        "pageNumber": 1,
+        "sortIndex": 32,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Preparer's Address",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text22",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 140.71906354515045,
+            "height": 15.862876254180605,
+            "x": 310.6488294314381,
+            "y": 709.689632107023
+        },
+        "pageNumber": 1,
+        "sortIndex": 33,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Preparer's City",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text23",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 36.33110367892971,
+            "height": 15.862876254180605,
+            "x": 454.4816053511706,
+            "y": 709.689632107023
+        },
+        "pageNumber": 1,
+        "sortIndex": 34,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Preparer's State",
+        "required": false,
+        "characterLimit": 2,
+        "fieldId": "Text24",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 77.26755852842803,
+            "height": 15.862876254180605,
+            "x": 495.9732441471572,
+            "y": 709.689632107023
+        },
+        "pageNumber": 1,
+        "sortIndex": 35,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Preparer's Zip Code",
+        "required": false,
+        "characterLimit": 5,
+        "fieldId": "Text25",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text26",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 276.83277591973246,
+            "height": 15.862876254180605,
+            "x": 295.25418060200667,
+            "y": 110.14464882943145
+        },
+        "pageNumber": 2,
+        "sortIndex": 36,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employee's Full Name",
+        "required": true,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text27",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 38.37792642140468,
+            "y": 163.36204013377926
+        },
+        "pageNumber": 2,
+        "sortIndex": 37,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A1 - Document Title",
+        "required": false,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 38.37792642140468,
+            "y": 183.873745819398
+        },
+        "pageNumber": 2,
+        "sortIndex": 38,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A1 - Issuing Authority",
+        "fieldId": "Text28",
+        "required": false,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 38.37792642140468,
+            "y": 206.43227424749165
+        },
+        "pageNumber": 2,
+        "sortIndex": 39,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A1 - Document Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text29",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date5",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 169.88628762541808,
+            "height": 12.280936454849495,
+            "x": 38.37792642140468,
+            "y": 229.37207357859532
+        },
+        "pageNumber": 2,
+        "sortIndex": 40,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A1 - Expiration Date",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 38.37792642140468,
+            "y": 254.48913043478257
+        },
+        "pageNumber": 2,
+        "sortIndex": 41,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A2 - Document Title",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text30",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 38.37792642140468,
+            "y": 275.00083612040135
+        },
+        "pageNumber": 2,
+        "sortIndex": 42,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A2 - Issuing Authority",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text31",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 10.74581939799333,
+            "x": 38.37792642140468,
+            "y": 296.5359531772575
+        },
+        "pageNumber": 2,
+        "sortIndex": 43,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A2 - Document Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text32",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 169.88628762541808,
+            "height": 11.769230769230774,
+            "x": 38.37792642140468,
+            "y": 318.45234113712377
+        },
+        "pageNumber": 2,
+        "sortIndex": 44,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A2 - Expiration Date",
+        "required": false,
+        "fieldId": "Date6",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 38.37792642140468,
+            "y": 343.0576923076923
+        },
+        "pageNumber": 2,
+        "sortIndex": 45,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A3 - Document Title",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text33",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 38.37792642140468,
+            "y": 364.5928093645485
+        },
+        "pageNumber": 2,
+        "sortIndex": 46,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A3 - Issuing Authority",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text34",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 10.74581939799333,
+            "x": 38.37792642140468,
+            "y": 387.15133779264215
+        },
+        "pageNumber": 2,
+        "sortIndex": 47,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A3 - Document Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text35",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 169.88628762541808,
+            "height": 11.769230769230774,
+            "x": 38.37792642140468,
+            "y": 411.1145484949833
+        },
+        "pageNumber": 2,
+        "sortIndex": 48,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List A3 - Expiration Date",
+        "required": false,
+        "fieldId": "Date7",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 220.07692307692307,
+            "y": 163.36204013377926
+        },
+        "pageNumber": 2,
+        "sortIndex": 49,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List B - Document Title",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text36",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 220.07692307692307,
+            "y": 183.873745819398
+        },
+        "pageNumber": 2,
+        "sortIndex": 50,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List B - Issuing Authority",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text37",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 220.07692307692307,
+            "y": 206.43227424749165
+        },
+        "pageNumber": 2,
+        "sortIndex": 51,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List B - Document Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text38",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 169.88628762541808,
+            "height": 12.280936454849495,
+            "x": 220.07692307692307,
+            "y": 229.37207357859532
+        },
+        "pageNumber": 2,
+        "sortIndex": 52,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List B - Expiration Date",
+        "required": false,
+        "fieldId": "Date8",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 402.2876254180602,
+            "y": 163.36204013377926
+        },
+        "pageNumber": 2,
+        "sortIndex": 53,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List C - Document Title",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text39",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 402.2876254180602,
+            "y": 183.873745819398
+        },
+        "pageNumber": 2,
+        "sortIndex": 54,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List C - Issuing Authority",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text40",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 169.37458193979933,
+            "height": 11.257525083612052,
+            "x": 402.2876254180602,
+            "y": 206.43227424749165
+        },
+        "pageNumber": 2,
+        "sortIndex": 55,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List C - Document Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text41",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 169.88628762541808,
+            "height": 12.280936454849495,
+            "x": 402.2876254180602,
+            "y": 229.37207357859532
+        },
+        "pageNumber": 2,
+        "sortIndex": 56,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "List C - Expiration Date",
+        "required": false,
+        "fieldId": "Date9",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date10",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 84.94314381270902,
+            "height": 13.816053511705661,
+            "x": 273.25083612040135,
+            "y": 476.5259197324415
+        },
+        "pageNumber": 2,
+        "sortIndex": 57,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employee's Start Date",
+        "required": true,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Signature3",
+        "template": "SignatureTemplate",
+        "rectangle": {
+            "width": 234.36120401337794,
+            "height": 14.32775919732444,
+            "x": 38.37792642140468,
+            "y": 510.2984949832776
+        },
+        "pageNumber": 2,
+        "sortIndex": 58,
+        "displayName": "Employer's Signature",
+        "required": true,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date11",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 87.50167224080269,
+            "height": 14.32775919732444,
+            "x": 279.9030100334448,
+            "y": 510.2984949832776
+        },
+        "pageNumber": 2,
+        "sortIndex": 59,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Date Signed by Employer",
+        "required": true,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Text42",
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 197.0066889632107,
+            "height": 14.32775919732444,
+            "x": 375.0802675585284,
+            "y": 510.2984949832776
+        },
+        "pageNumber": 2,
+        "sortIndex": 60,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's Title",
+        "required": true,
+        "characterLimit": 0,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 168.35117056856186,
+            "height": 13.816053511705718,
+            "x": 38.37792642140468,
+            "y": 540.532608695652
+        },
+        "pageNumber": 2,
+        "sortIndex": 61,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's Last Name",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text43",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 127.92642140468226,
+            "height": 13.816053511705718,
+            "x": 216.0267558528428,
+            "y": 540.532608695652
+        },
+        "pageNumber": 2,
+        "sortIndex": 62,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's First Name",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text44",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 223.10367892976592,
+            "height": 13.816053511705718,
+            "x": 348.9832775919732,
+            "y": 540.532608695652
+        },
+        "pageNumber": 2,
+        "sortIndex": 63,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's Business Name",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text45",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 261.9933110367893,
+            "height": 14.839464882943162,
+            "x": 38.37792642140468,
+            "y": 569.2316053511704
+        },
+        "pageNumber": 2,
+        "sortIndex": 64,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's Address",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text46",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 142.7658862876254,
+            "height": 14.32775919732444,
+            "x": 305.61872909698997,
+            "y": 569.2316053511704
+        },
+        "pageNumber": 2,
+        "sortIndex": 65,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's City",
+        "required": true,
+        "characterLimit": 0,
+        "fieldId": "Text47",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 36.842809364548486,
+            "height": 14.32775919732444,
+            "x": 453.54515050167225,
+            "y": 569.2316053511704
+        },
+        "pageNumber": 2,
+        "sortIndex": 66,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's State",
+        "required": true,
+        "characterLimit": 2,
+        "fieldId": "Text48",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 76.75585284280936,
+            "height": 14.32775919732444,
+            "x": 495.0367892976589,
+            "y": 569.2316053511704
+        },
+        "pageNumber": 2,
+        "sortIndex": 67,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Employer's Zip Code",
+        "required": true,
+        "characterLimit": 5,
+        "fieldId": "Text49",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 192.91304347826087,
+            "height": 14.839464882943162,
+            "x": 39.44481605351173,
+            "y": 617.8871237458193
+        },
+        "pageNumber": 2,
+        "sortIndex": 68,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Rehire's Last Name",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text50",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 111.04013377926418,
+            "height": 14.32775919732444,
+            "x": 238.54180602006693,
+            "y": 617.8871237458193
+        },
+        "pageNumber": 2,
+        "sortIndex": 69,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Rehire's First Name",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text51",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 45.03010033444809,
+            "height": 14.32775919732444,
+            "x": 359.85953177257534,
+            "y": 617.8871237458193
+        },
+        "pageNumber": 2,
+        "sortIndex": 70,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Rehire's Middle Initial",
+        "required": false,
+        "characterLimit": 1,
+        "fieldId": "Text52",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date12",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 160.16387959866222,
+            "height": 14.32775919732444,
+            "x": 412.4347826086956,
+            "y": 617.8871237458193
+        },
+        "pageNumber": 2,
+        "sortIndex": 71,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Date of Rehire",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 210.31103678929765,
+            "height": 14.839464882943162,
+            "x": 39.44481605351173,
+            "y": 674.7299331103678
+        },
+        "pageNumber": 2,
+        "sortIndex": 72,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Rehire's Document Title",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text53",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 183.7023411371237,
+            "height": 14.839464882943162,
+            "x": 257.0066889632107,
+            "y": 674.7734113712374
+        },
+        "pageNumber": 2,
+        "sortIndex": 73,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Rehire's Document Number",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text54",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 125.87959866220729,
+            "height": 13.816053511705718,
+            "x": 446.71906354515056,
+            "y": 675.2416387959865
+        },
+        "pageNumber": 2,
+        "sortIndex": 74,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Rehire's Document Expiration Date",
+        "required": false,
+        "fieldId": "Date13",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Signature4",
+        "template": "SignatureTemplate",
+        "rectangle": {
+            "width": 209.2876254180602,
+            "height": 16.374581939799327,
+            "x": 39.44481605351173,
+            "y": 733.4021739130435
+        },
+        "pageNumber": 2,
+        "sortIndex": 75,
+        "displayName": "Rehire Employer Signature",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "fieldId": "Date14",
+        "template": "DateTemplate",
+        "rectangle": {
+            "width": 92.10702341137124,
+            "height": 15.862876254180605,
+            "x": 257.89966555183946,
+            "y": 733.4021739130435
+        },
+        "pageNumber": 2,
+        "sortIndex": 76,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Date Signed by Employer of Rehire",
+        "required": false,
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }, {
+        "template": "TextTemplate",
+        "rectangle": {
+            "width": 215.93979933110364,
+            "height": 15.351170568561884,
+            "x": 355.2976588628763,
+            "y": 733.4021739130435
+        },
+        "pageNumber": 2,
+        "sortIndex": 77,
+        "fontName": "Fira Sans",
+        "fontColor": "#000000",
+        "displayName": "Name of Rehire's Employer",
+        "required": false,
+        "characterLimit": 0,
+        "fieldId": "Text55",
+        "pageData": {
+            "width": 612,
+            "height": 792
+        }
+    }]
+}
