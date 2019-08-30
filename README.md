@@ -35,8 +35,6 @@ burned) could not be found. This font initialization issue was specific to a cas
 (with that font) was burning for the first time after the PrizmDoc services initialization and resulted
 in the Markup Burner API failure.
 
-To obtain the v13.9 beta version of PrizmDoc Server, contact support@accusoft.com.
-
 ## Running the Service
 
 1. Clone this repository, open a command line, and change to the form-burner directory.
